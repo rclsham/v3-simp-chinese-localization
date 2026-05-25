@@ -1,0 +1,191 @@
+l_simp_chinese:
+ amendment_corporate_state_nominating_body_tu: "親勞工偏向"
+ amendment_corporate_state_nominating_body_tu_desc: "國家企業議會的提名機構系統性地偏向勞工協會和工會。"
+
+ amendment_corporate_state_nominating_body_id: "親僱主偏向"
+ amendment_corporate_state_nominating_body_id_desc: "國家企業議會的提名機構系統性地偏向僱主協會和產業。"
+
+ amendment_corporate_state_nominating_body_it: "親大學偏向"
+ amendment_corporate_state_nominating_body_it_desc: "國家企業議會的提名機構系統性地偏向大學和學術團體。"
+
+ amendment_ragged_schools: "貧民學校"
+ amendment_ragged_schools_desc: "學校系統由宗教運營的「貧民學校」補充，针對孤兒和貧困勞工子女。"
+
+ amendment_religious_workhouses: "宗教濟貧院"
+ amendment_religious_workhouses_desc: "濟貧院的運營責任委託給宗教當局，他們尋求對收容者的道德改善。"
+
+ amendment_veterans_pensions: "退伍軍人養老金"
+ amendment_veterans_pensions_desc: "福利系統為戰爭寡婦和現役軍人倖存者提供憢慨的國家養老金。"
+
+ amendment_agricultural_communes: "農業公社"
+ amendment_agricultural_communes_desc: "在農村地區，國家權力被自主農業公社網絡取代，這些公社採用新糠的農業技術。"
+
+ amendment_cult_of_personality: "個人崇拜"
+ amendment_cult_of_personality_desc: "通過其本身的天然魅力和國家宣傳機構的努力，統治者培養了相當規模的個人崇拜。"
+
+ amendment_farmers_cooperatives: "農民合作社"
+ amendment_farmers_cooperatives_desc: "土地改革受益者傾向於組成小型農業合作社聯盟，限制大型企業進入農業部門的能力。"
+
+ amendment_vertically_integrated_agriculture: "垂直整合農業"
+ amendment_vertically_integrated_agriculture_desc: "農業經濟的特點是某些大型企業擁有其整個供應鏈的所有權。"
+
+ amendment_sovereign_of_the_nation: "國家主權者"
+ amendment_sovereign_of_the_nation_desc: "君主從民族主義意識形態中獲得合法性，將自己塗塗成特定民族的最高代表。"
+
+ amendment_malthusian_foundations: "馬爾薩斯基礎"
+ amendment_malthusian_foundations_desc: "福利系統建立在隱含假設之上，即不受控制的人口增長將導致災難性的資源缺乏。它尋求阻止下層階級的人口增長。"
+
+ amendment_welfare_pro_employer_bias: "親僱主偏向"
+ amendment_welfare_pro_employer_bias_desc: "福利系統提供的福利有意受到限制，目的是減少勞工的槓桿並迅速讓失業者重返工作崗位。"
+
+ amendment_migration_religious_restrictions: "宗教限制"
+ amendment_migration_religious_restrictions_desc: "移民系統拒絕向遵從某些外國信仰的人提供長期居留權。"
+
+ amendment_migration_tariff_exemptions: "關稅轆免"
+ amendment_migration_tariff_exemptions_desc: "為安撫自由貿易支持者，這項法律保證貨物的自由流動——如果不是人的話。"
+
+ amendment_short_term_tax_cuts: "短期減稅"
+ amendment_short_term_tax_cuts_desc: "為減輕改革後稅制對納稅人的負擔，改革伴隨着一系列隨時間到期 的稅收減免。"
+
+ amendment_draconian_blasphemy_laws: "嚴厲褻渎法"
+ amendment_draconian_blasphemy_laws_desc: "國家對一系列宗教犯罪維持死刑，授予宗教當局生殺大權。"
+
+ amendment_degenerate_art: "受管制的墮落芸術"
+ amendment_degenerate_art_desc: "與受歧視少數民族相關的芸術形式受到嚴格壓制。取而代之的是，國家推廣具有民族主義和傳統主題的芸術。"
+
+ amendment_prussian_education: "普魯士教育"
+ amendment_prussian_education_desc: "教育系統的組織着眼於培養紀律嚴明、順從的公民。"
+
+ amendment_co_ed_schools: "男女同校"
+ amendment_co_ed_schools_desc: "所有性別的學生在公立學校接受共同教育。"
+
+ amendment_single_sex_education: "單性教育"
+ amendment_single_sex_education_desc: "國家維持按性別隔離的平行教育系統。"
+
+ amendment_state_anti_clericalism: "國家反教權主義"
+ amendment_state_anti_clericalism_desc: "國家积極努力將宗教影響從國家事務中移除，使其與宗教機構處於积極對立狀態。"
+
+ amendment_voting_age_18: "18歲投票年齡"
+ amendment_voting_age_18_desc: "選舉的最低投票年齡定為18歲。"
+
+ amendment_voting_age_21: "21歲投票年齡"
+ amendment_voting_age_21_desc: "選舉的最低投票年齡定為21歲。"
+
+ amendment_voting_age_25: "25歲投票年齡"
+ amendment_voting_age_25_desc: "選舉的最低投票年齡定為25歲。"
+
+ amendment_generic_sponsor_polstr_increase: "政治讓步"
+ amendment_generic_sponsor_polstr_increase_desc: "這項法律向協助其通過的利益集團提供某些政治讓步。"
+
+ amendment_voter_suppression_policies: "選民壓制政策"
+ amendment_voter_suppression_policies_desc: "翺管名義上普選，但選舉系統設置了對下層階級產生不成比例影響的投票障壄。"
+
+ amendment_homestead_acts: "宅地法"
+ amendment_homestead_acts_desc: "國家為定居者提供官方途徑，在未合併領土上獲得公共土地的所有權。"
+
+ amendment_extraterritoriality_rights: "治外法權"
+ amendment_extraterritoriality_rights_desc: "外國的農業投資者被授予轆免於某些國內法律，而是受其本國法律管轄。"
+
+ amendment_open_legal_questions: "未決法律問題"
+ amendment_open_legal_questions_desc: "這項法律的制定提出了幾個關於國內法與外國法適用性的法律問題，引起了外國投資者對 costly法律衝突的擔憂。"
+
+ amendment_generic_sponsor_polstr_approval_increase: "$amendment_generic_sponsor_polstr_increase$"
+ amendment_generic_sponsor_polstr_approval_increase_desc: "$amendment_generic_sponsor_polstr_increase_desc$"
+
+ amendment_generic_sponsor_polstr_increase_negotiation_1: "$amendment_generic_sponsor_polstr_increase$"
+ amendment_generic_sponsor_polstr_increase_negotiation_1_desc: "$amendment_generic_sponsor_polstr_increase_desc$"
+
+ amendment_generic_sponsor_polstr_increase_negotiation_2: "$amendment_generic_sponsor_polstr_increase$"
+ amendment_generic_sponsor_polstr_increase_negotiation_2_desc: "$amendment_generic_sponsor_polstr_increase_desc$"
+
+ amendment_generic_sponsor_polstr_increase_negotiation_3: "$amendment_generic_sponsor_polstr_increase$"
+ amendment_generic_sponsor_polstr_increase_negotiation_3_desc: "$amendment_generic_sponsor_polstr_increase_desc$"
+
+ amendment_industrial_socialization: "工業社會化"
+ amendment_industrial_socialization_desc: "擁有超過一百名員工的某些企業可能隨時被國有化或置於國家組織的工會控制之下。"
+
+ amendment_shop_councils: "商店理事會"
+ amendment_shop_councils_desc: "某些小企業被合併在國家組織的商店理事會之下，通常由其前所有者組成。"
+
+ amendment_foreign_investment_seizures: "外國投資徵收"
+ amendment_foreign_investment_seizures_desc: "外國擁有的企業可能隨時被國有化或置於國家組織的工會控制之下。"
+
+ amendment_redemption_payments: "國家贖回支付"
+ amendment_redemption_payments_desc: "作為國家補償其前地主的回報，前農奴被要求攥付特別稅。"
+
+ amendment_individual_redemption_payments: "個人贖回支付"
+ amendment_individual_redemption_payments_desc: "廢除農奴制的財政負擔直接放在個別農奴身上，將他們直接與前地主綁定在合同中。"
+
+ amendment_provided_school_supplies: "提供學校用品"
+ amendment_provided_school_supplies_desc: "教育系統直接用稅收資金購買學校用品，並根據需要提供給學生和教師。"
+
+ amendment_unfunded_school_supplies: "無資助學校用品"
+ amendment_unfunded_school_supplies_desc: "教育系統要求學生家庭以個人名義購買學校用品。"
+
+ amendment_workhouse_regulations: "濟貧院規章"
+ amendment_workhouse_regulations_desc: "對濟貧院的工作條件和工作時間施加規章。"
+
+ amendment_nativist_labour_market: "本土勞工規章"
+ amendment_nativist_labour_market_desc: "勞工規章旨在鼓勵僱用本土出生公民，並限制外國勞工的機會。"
+
+ amendment_preserved_bureaucratic_caste: "保留官僚階層"
+ amendment_preserved_bureaucratic_caste_desc: "最近的官僚改革使前改革結構基本保持完整。相當一部分高級官僚是前制度的遺留人員。"
+
+ amendment_restricted_colonial_outsourcing: "限制殖民外包"
+ amendment_restricted_colonial_outsourcing_desc: "已制定規章以保護國內工人免受廉價殖民勞工的競爭。"
+
+ amendment_church_organised_schools: "教會組織學校"
+ amendment_church_organised_schools_desc: "公立學校系統主要建立在宗教當局建立的現有結構之上。該系統保留了宗教教育的許多屬性。"
+
+ amendment_secular_school_system: "世俗化學校系統"
+ amendment_secular_school_system_desc: "公立學校系統從頭開始建立為世俗機構，剝弱了宗教當局在教育中的影響力。"
+
+ ### Starting Amendments
+ amendment_american_second_amendment: "憲法第二修正案"
+ amendment_american_second_amendment_desc: ""一支管理良好的民兵對自由國家的安全是必要的，人民持有和攜帶武器的權利不得被侵犯。"" 
+
+ amendment_american_fugitive_slaves_act: "逃亡奴隸法"
+ amendment_american_fugitive_slaves_act_desc: "奴隸主擁有追回逃亡奴隸的合法權利，不論任何禁止奴隸制的地方法律。"
+
+amendment_200_franc_suffrage: "200法郎選舉權"
+amendment_200_franc_suffrage_desc: "選舉權僅限於年滿25歲且每年繳納200法郎或以上稅款的男性。"
+
+amendment_chamber_of_procurators: "檢察官議院"
+amendment_chamber_of_procurators_desc: "對Cortes Generales下院的選舉通過兩階段間接程序進行。大納稅人和市議會成員的選民團選出950名代表，然後任命代表到檢寏官議院。"
+
+amendment_chamber_of_gentleman_deputies: "紳士代表議院"
+amendment_chamber_of_gentleman_deputies_desc: "對Cortes Geraes下院的選舉通過兩階段間接程序進行。大納稅人的選民團選出省議會議員，然後任命代表到紳士代表議院。"
+
+amendment_haiti_polish_naturalization: "波蘭歸化"
+amendment_haiti_polish_naturalization_desc: "與海地革命者並肩作戰的波蘭軍団後裕被授予與黑人在憲法下的相同法律地位，能夠擁有財產和公民身份。"
+
+amendment_racialized_subjecthood: "殖民種族化"
+amendment_racialized_subjecthood_desc: "為維護殖民統治，行政部門採用種族化方式對其臣民進行分類。所有與統治民族共享種族遺産的人被視為殖民統治階層的一部分。"
+
+amendment_geheime_staatskonferenz: "秘密國務會議"
+amendment_geheime_staatskonferenz_desc: "由於皇帝斐迪南一世被認為無法有效統治，已故皇帝弗朗茨一世的遺囑建立了秘密國務會議，作為集體攝政和實際統治內閣，直到大公弗朗茨約瑟夫成年。"
+
+amendment_geheime_staatskonferenz_metternich: "改革後的秘密國務會議"
+amendment_geheime_staatskonferenz_metternich_desc: "由於皇帝斐迪南一世被認為無法有效統治，已故皇帝弗朗茨一世的遺囑建立了秘密國務會議，作為集體攝政和實際統治內閣，直到大公弗朗茨約瑟夫成年。\n\n國務會議由首相克萊門斯·馮·梅特涅改革，改善其職能並授予梅特涅作為其無可爭議的首腦的職位。"
+
+amendment_geheime_staatskonferenz_kolowrat: "改革後的秘密國務會議"
+amendment_geheime_staatskonferenz_kolowrat_desc: "由於皇帝斐迪南一世被認為無法有效統治，已故皇帝弗朗茨一世的遺囑建立了秘密國務會議，作為集體攝政和實際統治內閣，直到大公弗朗茨約瑟夫成年。\n\n國務會議由大臣弗朗茨·安東·馮·科洛拉特和皇室改革，授予科洛拉特對該機構的控制權，並將首相梅特涅放逐到外交事務領域。"
+
+amendment_electoral_clientelism: "選舉庇護主義"
+amendment_electoral_clientelism_desc: "選舉結果由強大的政治老闆網絡控制，他們與執政政黨形成共生關係。通過物質激勵和脅迫的混合，這些老闆可以動員其社區保證特定政黨的勝利。"
+
+amendment_tradition_of_free_elections: "自由選舉傳統"
+amendment_tradition_of_free_elections_desc: "這個國家擁有自由公正選舉的傳統，以及使全國範圍選舉幹預困難的機構。"
+
+ruler_wants_dictatorship_tt: "[concept_ruler]支持頒布[GetLawType('law_autocracy').GetName]、[GetLawType('law_technocracy').GetName]或[GetLawType('law_single_party_state').GetName]"
+
+any_government_ig_wants_dictatorship_tt: "一個[concept_powerful] [concept_interest_group] [concept_in_government]支持頒布[GetLawType('law_autocracy').GetName]、[GetLawType('law_technocracy').GetName]或[GetLawType('law_single_party_state').GetName]"
+
+amendment_reinstated_fueros: "恢復的自治權"
+amendment_reinstated_fueros_desc: "巴斯克地區的古老傳統權利，即Fueros，已通過皇家法令恢復。"
+
+amendment_economic_regeneration_1: "復興遺產"
+amendment_economic_regeneration_1_desc: "復興的成功導致投資者信心激增。只要國家保持當前路線，它將有資本可供支配。"
+
+amendment_economic_regeneration_2: "復興遺產"
+amendment_economic_regeneration_2_desc: "復興的成功對致投資者信心激增。只要國家保持當前路線，它將有資本可供支配。"
