@@ -1,0 +1,18 @@
+l_simp_chinese:
+amendment_frugal_ordinance: "節儉條例"
+amendment_frugal_ordinance_desc: "平民對奢侬品、娛樂和文學的獲取受到政府的嚴格限制和管制。"
+
+amendment_zaibatsu_oligopoly: "財閥寡頭壟斷"
+amendment_zaibatsu_oligopoly_desc: "經濟由一個封閉的軍工財閥圈層主導，與國家形成共生關係。"
+
+amendment_zaibatsu_oligopoly_1: "$amendment_zaibatsu_oligopoly$"
+amendment_zaibatsu_oligopoly_1_desc: "$amendment_zaibatsu_oligopoly_desc$"
+
+amendment_zaibatsu_oligopoly_2: "$amendment_zaibatsu_oligopoly$"
+amendment_zaibatsu_oligopoly_2_desc: "$amendment_zaibatsu_oligopoly_desc$"
+
+amendment_taikunate: "大老政治"
+amendment_taikunate_desc: "德川氏族在議會制中保留特殊特權，氏族首領擁有永久政府首腦職位。"
+
+amendment_reformed_shinsengumi: "新選組傳承"
+amendment_reformed_shinsengumi_desc: "國家的秘密警察機構源自新選組，這是由幕府委託在京都維持秩序的精鉗劍客部隊。"
