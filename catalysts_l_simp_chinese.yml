@@ -1,0 +1,236 @@
+l_simp_chinese:
+ catalyst_historical_relationship: "歷史關係"
+ catalyst_historical_relationship_desc: "他們與[TARGET_COUNTRY.GetName]的歷史關係"
+
+ catalyst_became_relevant: "成為外交相關"
+ catalyst_became_relevant_desc: "[TARGET_COUNTRY.GetName]成為外交相關"
+
+ catalyst_became_irrelevant: "成為外交無關"
+ catalyst_became_irrelevant_desc: "[TARGET_COUNTRY.GetName]成為外交無關"
+
+ catalyst_gained_land_border: "獲得陸地邊界"
+ catalyst_gained_land_border_desc: "與[TARGET_COUNTRY.GetName]獲得陸地邊界"
+
+ catalyst_lost_land_border: "失去陸地邊界"
+ catalyst_lost_land_border_desc: "失去與[TARGET_COUNTRY.GetName]的陸地邊界"
+
+ catalyst_market_opened: "市場開放"
+ catalyst_market_opened_desc: "[TARGET_COUNTRY.GetMarket.GetName]的開放"
+
+ catalyst_lobbies_funded: "政治遊說團體獲得資助"
+ catalyst_lobbies_funded_desc: "[TARGET_COUNTRY.GetName]資助了新的[concept_political_lobby]"
+
+ catalyst_relations_level_increased: "關係等級揚升"
+ catalyst_relations_level_increased_desc: "與[TARGET_COUNTRY.GetName]的[concept_relations]揚升"
+
+ catalyst_relations_level_decreased: "關係等級下降"
+ catalyst_relations_level_decreased_desc: "與[TARGET_COUNTRY.GetName]的[concept_relations]下降"
+
+ catalyst_diplomatic_demand: "外交要求提出"
+ catalyst_diplomatic_demand_desc: "對[TARGET_COUNTRY.GetName]提出[concept_diplomatic_demand]"
+
+ catalyst_diplomatic_demand_target: "成為外交要求目標"
+ catalyst_diplomatic_demand_target_desc: "成為[TARGET_COUNTRY.GetName]的[concept_diplomatic_demand]目標"
+
+ catalyst_diplomatic_play: "外交博弊開始"
+ catalyst_diplomatic_play_desc: "對[TARGET_COUNTRY.GetName]發起[concept_diplomatic_play]"
+
+ catalyst_diplomatic_play_target: "成為外交博弊目標"
+ catalyst_diplomatic_play_target_desc: "成為[TARGET_COUNTRY.GetName]的[concept_diplomatic_play]目標"
+
+ catalyst_autonomy_level_increased: "[concept_autonomy]等級揚升"
+ catalyst_autonomy_level_increased_desc: "從[TARGET_COUNTRY.GetName]獲得更多自治"
+
+ catalyst_autonomy_level_decreased: "[concept_autonomy]等級下降"
+ catalyst_autonomy_level_decreased_desc: "從[TARGET_COUNTRY.GetName]獲得更少自治"
+
+ catalyst_gained_independence: "獲得獨立"
+ catalyst_gained_independence_desc: "完全獨立於[TARGET_COUNTRY.GetName]"
+
+ catalyst_became_overlord: "成為$concept_overlord$"
+ catalyst_became_overlord_desc: "成為[TARGET_COUNTRY.GetName]的[concept_overlord]"
+
+ catalyst_became_subject: "成為$concept_subject$"
+ catalyst_became_subject_desc: "成為[TARGET_COUNTRY.GetName]的[concept_subject]"
+
+ catalyst_pact_formed: "$concept_diplomatic_pact$形成"
+ catalyst_pact_formed_desc: "與[TARGET_COUNTRY.GetName]形成[concept_diplomatic_pact]"
+
+ catalyst_pact_broken: "$concept_diplomatic_pact$破裂"
+ catalyst_pact_broken_desc: "與[TARGET_COUNTRY.GetName]破裂[concept_diplomatic_pact]"
+
+ catalyst_alliance_formed: "$concept_alliance$形成"
+ catalyst_alliance_formed_desc: "與[TARGET_COUNTRY.GetName]結成[concept_alliance]或[concept_defensive_pact]"
+
+ catalyst_alliance_broken: "$concept_alliance$破裂"
+ catalyst_alliance_broken_desc: "與[TARGET_COUNTRY.GetName]破裂[concept_alliance]或[concept_defensive_pact]"
+
+ catalyst_rivalry_declared: "宣佈對立"
+ catalyst_rivalry_declared_desc: "[TARGET_COUNTRY.GetName]對[COUNTRY.GetName]宣佈[concept_rivalry]"
+
+ catalyst_alliance_with_rival: "與對立者結盟"
+ catalyst_alliance_with_rival_desc: "[TARGET_COUNTRY.GetName]與[COUNTRY.GetAdjective]的[Concept('concept_rivalry','$concept_rival$')]結盟"
+
+ catalyst_rival_of_rival: "對立者的對立"
+ catalyst_rival_of_rival_desc: "[TARGET_COUNTRY.GetName]對[COUNTRY.GetAdjective]的$concept_rival$宣佈[concept_rivalry]"
+
+ catalyst_increased_relations_with_rival: "與對立者關係改善"
+ catalyst_increased_relations_with_rival_desc: "與[COUNTRY.GetAdjective]的$concept_rival$關係揚升"
+
+ catalyst_decreased_relations_with_rival: "與對立者關係惡化"
+ catalyst_decreased_relations_with_rival_desc: "與[COUNTRY.GetAdjective]的$concept_rival$關係下降"
+
+ catalyst_opposed_in_play: "在外交博弊中為敵"
+ catalyst_opposed_in_play_desc: "在[concept_diplomatic_play]中與[TARGET_COUNTRY.GetName]為敵"
+
+ catalyst_allies_in_play: "在外交博弊中為盟"
+ catalyst_allies_in_play_desc: "在[concept_diplomatic_play]中與[TARGET_COUNTRY.GetName]為盟"
+
+ catalyst_wargoal_enforced: "戰爭目標強制執行"
+ catalyst_wargoal_enforced_desc: "[TARGET_COUNTRY.GetName]對[COUNTRY.GetName]強制執行[concept_war_goal]"
+
+ catalyst_state_conquered: "國家被徵服"
+ catalyst_state_conquered_desc: "[TARGET_COUNTRY.GetName]從[COUNTRY.GetName]徵服[concept_state]"
+
+ catalyst_diplomatic_strategy_changed: "外交策略改變"
+ catalyst_diplomatic_strategy_changed_desc: "[COUNTRY.GetName]改變其[concept_ai_strategy]"
+
+ catalyst_declared_bankruptcy: "宣佈破產"
+ catalyst_declared_bankruptcy_desc: "[TARGET_COUNTRY.GetName]通過宣佈[concept_bankruptcy]顯示其弱點"
+
+ catalyst_ideological_drift: "意識形態漂移"
+ catalyst_ideological_drift_desc: "與[TARGET_COUNTRY.GetName]的意識形態差異增加"
+
+ catalyst_ideological_alignment: "意識形態一致"
+ catalyst_ideological_alignment_desc: "與[TARGET_COUNTRY.GetName]的意識形態相似性增加"
+
+ catalyst_joined_same_bloc: "加入相同勢力集團"
+ catalyst_joined_same_bloc_desc: "[TARGET_COUNTRY.GetName]成為相同[concept_power_bloc]的一部分"
+
+ catalyst_joined_different_bloc: "加入其他勢力集團"
+ catalyst_joined_different_bloc_desc: "[TARGET_COUNTRY.GetName]成為不同[Concept('concept_power_bloc','$concept_power_blocs$')]的一部分"
+
+ catalyst_journal_entry: "日誌條目"
+ catalyst_journal_entry_desc: "[COUNTRY.GetAdjective]對我們的戰略野心（通常來自[concept_journal_entry]）"
+
+ catalyst_unification_support_added: "宣佈統一支持"
+ catalyst_unification_support_added_desc: "[TARGET_COUNTRY.GetName]成為[COUNTRY.GetAdjective]的[concept_unification_supporter]"
+
+ catalyst_unification_support_removed: "撤回統一支持"
+ catalyst_unification_support_removed_desc: "[TARGET_COUNTRY.GetName]不再是[COUNTRY.GetAdjective]的[concept_unification_supporter]"
+
+ catalyst_autonomy_increase_requested: "請求[concept_autonomy]"
+ catalyst_autonomy_increase_requested_desc: "[TARGET_COUNTRY.GetName]請求增加自治"
+
+ catalyst_autonomy_decrease_requested: "請求減少[concept_autonomy]"
+ catalyst_autonomy_decrease_requested_desc: "[TARGET_COUNTRY.GetName]請求減少自治"
+
+ catalyst_autonomy_change_imposed: "[concept_autonomy]改變"
+ catalyst_autonomy_change_imposed_desc: "[TARGET_COUNTRY.GetName]改變了[COUNTRY.GetName]的自治等級"
+
+ catalyst_autonomy_increase_denied: "[concept_autonomy]被拒絕"
+ catalyst_autonomy_increase_denied_desc: "[TARGET_COUNTRY.GetName]拒絕增加[COUNTRY.GetName]的自治"
+
+ catalyst_market_control_requested: "請求市場控制"
+ catalyst_market_control_requested_desc: "[TARGET_COUNTRY.GetName]請求控制其自己的[concept_market]"
+
+ catalyst_recognition_requested: "請求承認"
+ catalyst_recognition_requested_desc: "[TARGET_COUNTRY.GetName]請求[COUNTRY.GetName]設立大使館"
+
+ catalyst_support_regime_requested: "請求支持政權"
+ catalyst_support_regime_requested_desc: "[TARGET_COUNTRY.GetName]請求支持其政權"
+
+ catalyst_investment_rights_requested: "請求投資權利"
+ catalyst_investment_rights_requested_desc: "[TARGET_COUNTRY.GetName]請求[concept_foreign_investment_rights]"
+
+ catalyst_knowledge_sharing_requested: "請求知識共享"
+ catalyst_knowledge_sharing_requested_desc: "[TARGET_COUNTRY.GetName]請求[COUNTRY.GetName]分享其[concept_technology]知識"
+
+ catalyst_diplomatic_incident: "外交事件發生"
+ catalyst_diplomatic_incident_desc: "[COUNTRY.GetName]與[TARGET_COUNTRY.GetName]之間發生[concept_diplomatic_incident]"
+
+ catalyst_friendly_lobby_in_government: "友好遊說團體進入政府"
+ catalyst_friendly_lobby_in_government_desc: "友好[concept_political_lobby]成為[COUNTRY.GetAdjective][concept_government]的一部分"
+
+ catalyst_hostile_lobby_in_government: "敵對遊說團體進入政府"
+ catalyst_hostile_lobby_in_government_desc: "敵對[concept_political_lobby]成為[COUNTRY.GetAdjective][concept_government]的一部分"
+
+ catalyst_nationalized_building: "國有化建築"
+ catalyst_nationalized_building_desc: "[TARGET_COUNTRY.GetName][Concept('concept_nationalize','$concept_nationalized$')][COUNTRY.GetAdjective]擁有的[concept_building]"
+
+ catalyst_declined_bloc_invite: "拒絕勢力集團邀請"
+ catalyst_declined_bloc_invite_desc: "[TARGET_COUNTRY.GetName]拒絕加入[COUNTRY.GetPowerBloc.GetName]的邀請"
+
+ catalyst_kicked_out_of_bloc: "被踢出勢力集團"
+ catalyst_kicked_out_of_bloc_desc: "[COUNTRY.GetName]被[TARGET_COUNTRY.GetName]踢出[TARGET_COUNTRY.GetPowerBloc.GetName]"
+
+ catalyst_left_power_bloc: "離開勢力集團"
+ catalyst_left_power_bloc_desc: "[COUNTRY.GetName]離開[TARGET_COUNTRY.GetPowerBloc.GetName]"
+
+ catalyst_exiled_culture_member: "流放具有國家文化的人物"
+ catalyst_exiled_culture_member_desc: "[TARGET_COUNTRY.GetName]流放具有我們[concept_primary_cultures]之一的人物"
+
+ catalyst_invited_exile_positive: "邀請同情的政治流亡者"
+ catalyst_invited_exile_positive_desc: "[TARGET_COUNTRY.GetName]邀請我們國家的同情[concept_exile]"
+
+ catalyst_invited_exile_negative: "邀請敵對的政治流亡者"
+ catalyst_invited_exile_negative_desc: "[TARGET_COUNTRY.GetName]邀請我們國家的不同情[concept_exile]"
+
+ catalyst_overtaken_in_prestige_rank: "在$concept_prestige$排名中被超越"
+ catalyst_overtaken_in_prestige_rank_desc: "[TARGET_COUNTRY.GetName]在頂級#v [GetDefine('NDiplomacy','DIPLOMATIC_CATALYST_MIN_SCORE_POSITION_FOR_OVERTAKE')]#! [concept_prestige]排名中超越[COUNTRY.GetName]"
+
+ catalyst_revolution_successful: "勝利革命"
+ catalyst_revolution_successful_desc: "[TARGET_COUNTRY.GetName]的[concept_government]被[concept_revolution]推翻"
+
+ catalyst_became_recognized: "獲得承認"
+ catalyst_became_recognized_desc: "[TARGET_COUNTRY.GetName]成為[concept_recognized_power]"
+
+ catalyst_event_positive: "正面事件"
+ catalyst_event_positive_desc: "來自事件或其他原因"
+
+ catalyst_event_negative: "負面事件"
+ catalyst_event_negative_desc: "來自事件或其他原因"
+
+ catalyst_declined_military_assistance: "拒絕$concept_military_assistance$請求"
+ catalyst_declined_military_assistance_desc: "[TARGET_COUNTRY.GetName]拒絕提供[concept_military_assistance]給我們國家的邀請"
+
+ catalyst_granted_military_assistance: "授予$concept_military_assistance$"
+ catalyst_granted_military_assistance_desc: "[TARGET_COUNTRY.GetName]向我們國家提供[concept_military_assistance]"
+
+ catalyst_orchestrate_coup_successful: "勝利策劃[concept_coup]"
+ catalyst_orchestrate_coup_successful_desc: "[TARGET_COUNTRY.GetName]在我們國家策劃成功的[concept_coup]"
+
+ catalyst_orchestrate_coup_failed: "失敗策劃[concept_coup]"
+ catalyst_orchestrate_coup_failed_desc: "[TARGET_COUNTRY.GetName]在我們國家策劃失敗的[concept_coup]嘗試"
+
+ catalyst_orchestrate_coup_fizzled: "中止策劃[concept_coup]"
+ catalyst_orchestrate_coup_fizzled_desc: "[TARGET_COUNTRY.GetName]嘗試在我們國家策劃[concept_coup]嘗試"
+
+ # Treaties
+ catalyst_treaty_broken: "$concept_treaty$破裂"
+ catalyst_treaty_broken_desc: "[COUNTRY.GetName]與[TARGET_COUNTRY.GetName]破裂[concept_treaty]"
+
+ catalyst_treaty_signed: "$concept_treaty$簽署"
+ catalyst_treaty_signed_desc: "[COUNTRY.GetName]與[TARGET_COUNTRY.GetName]簽署[concept_treaty]"
+
+ catalyst_treaty_enforced: "$concept_treaty$強制執行"
+ catalyst_treaty_enforced_desc: "[COUNTRY.GetName]對[TARGET_COUNTRY.GetName]強制執行[concept_treaty]"
+
+ # Straits
+ catalyst_strait_toll_high: "高$concept_strait$$concept_tolls$徵收"
+ catalyst_strait_toll_high_desc: "[TARGET_COUNTRY.GetName]對[COUNTRY.GetName]使用的[Concept('concept_strait', '$concept_strait$')]徵收高[concept_tolls]"
+
+ catalyst_strait_toll_reduced: "海峽通行費降低"
+ catalyst_strait_toll_reduced_desc: "[TARGET_COUNTRY.GetName]降低[COUNTRY.GetName]使用的[Concept('concept_strait', '$concept_strait$')]的[concept_tolls]"
+
+ catalyst_strait_no_military: "海峽對軍事關閉"
+ catalyst_strait_no_military_desc: "[TARGET_COUNTRY.GetName]拒絕[COUNTRY.GetName]軍事船隻通過[Concept('concept_strait', '$concept_straits$')]"
+
+ catalyst_strait_opened: "海峽重新開放"
+ catalyst_strait_opened_desc: "[TARGET_COUNTRY.GetName]重新開放[Concept('concept_strait', '$concept_strait$')]給[COUNTRY.GetName]"
+
+ catalyst_strait_partially_opened: "海峽部分重新開放"
+ catalyst_strait_partially_opened_desc: "[TARGET_COUNTRY.GetName]在完全關閉後重新開放[Concept('concept_strait', '$concept_strait$')]給[COUNTRY.GetName]貿易"
+
+ catalyst_strait_closed: "海峽完全關閉"
+ catalyst_strait_closed_desc: "[TARGET_COUNTRY.GetName]完全關閉[Concept('concept_strait', '$concept_strait$')]給[COUNTRY.GetName]航運"
